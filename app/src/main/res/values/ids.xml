@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="output_nama" type="id">output_nama</item>
+    <item name="output_angkatan" type="id">output_angkatan</item>
+</resources>
